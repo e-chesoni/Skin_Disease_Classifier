@@ -1,0 +1,5 @@
+# Ignore files in dataset folder (too large to load to github)
+dataset/
+
+# Mac Files
+.DS_Store
