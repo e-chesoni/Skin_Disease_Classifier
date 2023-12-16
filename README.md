@@ -1,5 +1,5 @@
 # Skin Disease Detection Using PyTorch
-This is Elaine Chesoni, Meiru Han, and Ankita Reddy's final project for CIS 5810.
+This is Elaine Chesoni, Meiru Han, and Ankita Reddy's final project for CIS 5810. You can also find this project on GitHub: [Skin Disease Detection Using PyTorch](https://github.com/e-chesoni/Skin_Disease_Classifier).
 
 ## Download Data
 
